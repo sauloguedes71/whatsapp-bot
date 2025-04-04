@@ -1,0 +1,37 @@
+{
+    "lanches": {
+      "X-Burger": 8,
+      "X-Salada": 9,
+      "X-Tudo": 16,
+      "X-Bacon": 12,
+      "X-Calabresa": 12,
+      "X-Egg": 11,
+      "Misto Quente": 6,
+      "X-Frango": 12,
+      "Americano": 9,
+      "X-Egg Bacon": 15,
+      "X-Egg Bacon Calabresa": 15,
+      "X-Egg Frango": 15,
+      "X-Frango Bacon": 15,
+      "X-Frango Calabresa": 15,
+      "X-Egg Calabresa": 15,
+      "X-Especial": 24,
+      "A Moda da Casa": 18
+    },
+    "salgados": {
+      "Pastel de Carne": 4,
+      "Pastel de Queijo": 4,
+      "Pastel de Presunto": 4,
+      "Coxinha": 4,
+      "Enroladinho": 4
+    },
+    "bebidas": {
+      "Refrigerante Lata": 5,
+      "Refrigerante 1L": 8,
+      "Suco": 4,
+      "Cerveja Lata": 5,
+      "Cerveja 600ml": 9,
+      "Água 500ml": 3
+    }
+  }
+  
